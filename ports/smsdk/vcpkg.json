@@ -1,0 +1,5 @@
+{
+  "name": "smsdk",
+  "version-string": "1.0.0",
+  "description": "An sdk for scrapmechanic containing a bunch of useful abstractions."
+}
