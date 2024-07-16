@@ -1,5 +1,6 @@
 {
   "name": "smsdk",
-  "version-string": "1.0.0",
-  "description": "An sdk for scrapmechanic containing a bunch of useful abstractions."
+  "version": "0.1",
+  "description": "Scrap Mechanic C++ SDK",
+  "homepage": "https://github.com/Scrap-Mods/SmSdk"
 }
