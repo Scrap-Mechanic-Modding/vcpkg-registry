@@ -3,6 +3,7 @@
   "version": "0.1",
   "description": "Scrap Mechanic C++ SDK",
   "homepage": "https://github.com/Scrap-Mods/SmSdk",
+  "supports": "!(debug)",
   "dependencies": [
     {
       "name": "vcpkg-cmake",
